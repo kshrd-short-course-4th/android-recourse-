@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResourcesDemo</string>
+    <string name="main_sreen">Hello android</string>
+    <string name="home_screen">How do you do?</string>
+</resources>
